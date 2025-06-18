@@ -1,10 +1,10 @@
 # CODTECH-Task4
 
-Name: GOPALAKRISHNAN.M
-Company: CODTECH IT SOLUTIONS
-ID: CT04DG2187
-Domain: Python Programming
-Duration: June to July 2025
+Name: GOPALAKRISHNAN.M                                                                            
+Company: CODTECH IT SOLUTIONS                                                                                    
+ID: CT04DG2187                                               
+Domain: Python Programming                                                           
+Duration: June to July 2025                                            
 
 ## 🤖 Project Overview: MACHINE LEARNING MODEL IMPLEMENTATION
 
